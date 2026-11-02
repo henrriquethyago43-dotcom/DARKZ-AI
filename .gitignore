@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.bak
+*.backup*
+.darkz_env
+memory/chat_history.json
